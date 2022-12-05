@@ -1,0 +1,17 @@
+name: jpx
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - numpy
+  - pip
+  - pip:
+    - lightgbm
+    - tqdm
+    - seaborn
+    - scipy
+    - scikit-learn
+    - pandas
+    - optuna
+    - ipykernel

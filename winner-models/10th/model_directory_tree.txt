@@ -1,0 +1,5 @@
+.
+./documentation
+./notebooks/simulations
+./notebooks/submission
+./notebooks/simulations/simulations/days_montecarlo_simulations
